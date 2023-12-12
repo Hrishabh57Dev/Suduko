@@ -1,0 +1,5 @@
+matrix = [[1, 2]]
+rows = len(matrix) Height.
+columns = len(matrix[0]) Width.
+print(rows)
+print(columns)
